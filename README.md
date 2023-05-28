@@ -6,7 +6,7 @@ In this assignment, you will be tasked with developing a Next.js application tha
 
 ## Instructions:
 
-1. Create a new Next.js project from scratch.
+1. Fork this project repo to your profile and clone it to work on the project.
 
 2. Design and implement a multi-page application called "Music World" that allows users to search for and discover music albums.
 
@@ -48,8 +48,9 @@ You can use any of the above apis available. Also, You are free to use any other
 
 1. Fork this GitHub repository [Assignment Repo](https://github.com/internsathi/frontend-assignment) to your own GitHub account.
 2. Commit your code regularly and push the changes to your forked repository.
-3. Provide a DOCS.md file with instructions on how to set up and run your application.
-4. Once you have completed the assignment, share the repository URL along with live deployed url of your project with us via the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSd49m7F_6oSXSI5RFQY_ps2CDQIt3i_iCqrPgzplbqIy8N4EA/viewform)
+4. Do not create pull request just submit your forked repo.e
+5. Provide a DOCS.md file with instructions on how to set up and run your application.
+6. Once you have completed the assignment, share the repository URL along with live deployed url of your project with us via the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSd49m7F_6oSXSI5RFQY_ps2CDQIt3i_iCqrPgzplbqIy8N4EA/viewform)
 
 - Submission Deadline: Tuesday 30 May, 2023, 11:30 PM
 
