@@ -20,6 +20,7 @@ Use the following API endpoint for fetching data:
 - https://docs.7digital.com/reference
 - https://www.last.fm/api
 - https://www.discogs.com/
+- https://rapidapi.com/blog/top-free-music-data-apis/
 
 You can use any of the above apis available. Also, You are free to use any other apis according to your preference.
 
@@ -45,39 +46,13 @@ You can use any of the above apis available. Also, You are free to use any other
 
 ## Submission Guidelines:
 
-1. Fork this GitHub repository [Assignment Repo](https://github.com/your-username/nextjs-interview-assignment) to your own GitHub account.
+1. Fork this GitHub repository [Assignment Repo](https://github.com/internsathi/frontend-assignment) to your own GitHub account.
 2. Commit your code regularly and push the changes to your forked repository.
 3. Provide a DOCS.md file with instructions on how to set up and run your application.
-4. Once you have completed the assignment, share the repository URL along with deployed url with us via email (internsathi@gmail.com) or any designated communication channel.
+4. Once you have completed the assignment, share the repository URL along with live deployed url of your project with us via the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSd49m7F_6oSXSI5RFQY_ps2CDQIt3i_iCqrPgzplbqIy8N4EA/viewform)
 
-- Submission Deadline: Tuesday 23rd May, 2023, 10:00 PM
+- Submission Deadline: Tuesday 30 May, 2023, 11:30 PM
 
-## Submission Format:
-
-```
-Subject: Next.js Interview Assignment Submission
-
-Dear Sir,
-
-I hope this email finds you well. I am writing to submit my completed assignment for the Next.js interview round as per the requirements provided.
-
-I have completed the assignment titled "Music World" and have pushed the code to a public Git repository for your review. The repository can be accessed at [provide the URL of your Git repository].
-
-Live site url: [Url of the deployed site]
-
-Technologies Used:
-[List of technologies used in the assignment]
-
-API Used:
-[Url of the api used in the assignment]
-
-Thank you for considering my submission. I look forward to discussing my solution with you during the next stage of the interview process.
-
-Best regards,
-
-[Your Name]
-[Your Contact Information] 
-```
 
 Note: The assignment is intentionally challenging, and you are not expected to complete all the bonus tasks. Focus on delivering high-quality code and meeting the core requirements first.
 
