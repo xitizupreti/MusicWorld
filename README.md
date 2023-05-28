@@ -13,14 +13,14 @@ In this assignment, you will be tasked with developing a Next.js application tha
 3. The application should have the following pages:
    - Home Page: Display a list of trending albums with their cover images and artist names. The list should be fetched from an API endpoint.
    - Search Page: Provide a search bar where users can enter the name of an artist or album. On form submission, display a list of search results (albums) fetched from an API endpoint.
-   - Album Details Page: When a user clicks on an album from the search results or trending list, they should be taken to a page that displays detailed information about the album, including the album cover image, artist name, release date, and tracklist.
+   - Album Details Page: When a user clicks on an album from the search results or trending list, they should be taken to a page that displays detailed information about the album, including the album cover image, artist name, release date, tracklist etc.
 
 Use the following API endpoint for fetching data:
 
 - https://docs.7digital.com/reference
 - https://www.last.fm/api
 - https://www.discogs.com/
-- https://rapidapi.com/blog/top-free-music-data-apis/
+- (Recommended) https://rapidapi.com/blog/top-free-music-data-apis/
 
 You can use any of the above apis available. Also, You are free to use any other apis according to your preference.
 
@@ -34,8 +34,8 @@ You can use any of the above apis available. Also, You are free to use any other
 - Handle loading and error states gracefully during data fetching.
 - Maintain global state management with Redux Toolkit / Recoil
 - Write clean, maintainable, and well-documented code.
-- Use Git for version control and commit your code regularly to a public Git repository
-- Deploy the application to a hosting platform (e.g., Vercel, Netlify) and provide a live demo URL in your repo.
+- Use Git for version control and commit your code regularly to the forked public Git repository in your profile.
+- Deploy the application to a hosting platform (e.g., Vercel, Netlify) and provide a live demo URL in your repo and the submission form.
 
 ### Bonus Points:
 
@@ -48,9 +48,9 @@ You can use any of the above apis available. Also, You are free to use any other
 
 1. Fork this GitHub repository [Assignment Repo](https://github.com/internsathi/frontend-assignment) to your own GitHub account.
 2. Commit your code regularly and push the changes to your forked repository.
-4. Do not create pull request just submit your forked repo.e
-5. Provide a DOCS.md file with instructions on how to set up and run your application.
-6. Once you have completed the assignment, share the repository URL along with live deployed url of your project with us via the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSd49m7F_6oSXSI5RFQY_ps2CDQIt3i_iCqrPgzplbqIy8N4EA/viewform)
+3. Do not create pull request just submit your forked repo.e
+4. Provide a DOCS.md file with instructions on how to set up and run your application.
+5. Once you have completed the assignment, share the repository URL along with live deployed url of your project with us via the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSd49m7F_6oSXSI5RFQY_ps2CDQIt3i_iCqrPgzplbqIy8N4EA/viewform)
 
 - Submission Deadline: Tuesday 30 May, 2023, 11:30 PM
 
