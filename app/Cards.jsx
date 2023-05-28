@@ -14,10 +14,10 @@ function Card(props) {
         <b>Artist=</b>
         {Name}
       </p>
-      <p>
+      <span>
         <b>Preview=</b>
         <ReactAudioPlayer src={play} controls />
-      </p>
+      </span>
     </div>
   );
 }

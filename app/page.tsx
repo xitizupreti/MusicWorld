@@ -5,10 +5,10 @@ import Card from "./Cards";
 import { Audio } from "react-loader-spinner";
 
 const Internsathi = () => {
-  const [query, setquery] = useState();
+  const [query, setquery] = useState<string>();
   const [data, setData] = useState<any[]>([]);
   const [loading, setLoading] = useState(false);
-  const [Input, setInput] = useState();
+  const [Input, setInput] = useState<string>();
 
   const qqq = (e: { preventDefault: () => void }) => {
     e.preventDefault();
@@ -24,7 +24,7 @@ const Internsathi = () => {
         params: { q: `${query}` },
         headers: {
           "X-RapidAPI-Key":
-            "7b9fca64efmsh6a6bb634c21f8d4p1fead4jsn066949f3a22a",
+            `${process.env.NEXT_PUBLIC_KEY}`,
           "X-RapidAPI-Host": "deezerdevs-deezer.p.rapidapi.com",
         },
       };
